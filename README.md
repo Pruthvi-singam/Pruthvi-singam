@@ -23,7 +23,7 @@
 
 
 ## 🌱 My Projects
-- [E-commerce React App](https://github.com/PruthviSingama/Ecommerce-React-App)
+- [Full Stack Auto Price System](https://github.com/PruthviSingama/Auto-Price-System) - [Live Demo](https://autopricesystem.netlify.app/)
 - [Spring Boot REST API](https://github.com/PruthviSingama/SpringBoot-API)
 
 Thanks for visiting my GitHub! Feel free to explore my projects and contribute.
