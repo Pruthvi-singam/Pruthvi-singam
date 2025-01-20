@@ -11,12 +11,9 @@
 - **Frameworks**: Spring Boot, React
 - **Databases**: MySQL, PostgreSQL
 
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/pruthvisingamasetti/)
-- [LeetCode Stats](https://leetcode.com/u/Singam_007/)
-
-## 💼 LinkedIn Badge
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pruthvisingamasetti/)
+## 📫 How to reach me:
+- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pruthvi%20Singama-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvisingamasetti/)
+- ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Singam_007-yellowgreen?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/Singam_007/)
 
 ## 🚀 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode)
