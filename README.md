@@ -13,7 +13,10 @@
 
 ## 📫 How to reach me:
 - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pruthvi%20Singama-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvisingamasetti/)
-- ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Singam_007-yellowgreen?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/Singam_007/)
+  
+## 🚀 Badges
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Singam_007-yellowgreen?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Singam_007/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-PruthviSingama-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PruthviSingama)
 
 ## 🚀 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode)
