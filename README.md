@@ -12,7 +12,7 @@
 - **Databases**: MySQL, PostgreSQL
 
 ## 📫 How to reach me:
-- [LinkedIn - Pruthvi Singama](https://www.linkedin.com/in/pruthvisingamasetti/) ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pruthvi%20Singama-blue?style=flat-square&logo=linkedin&logoColor=white)
+- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pruthvi%20Singama-blue?style=flat-square&logo=linkedin&logoColor=white)
 
 ## 🚀 Stats
 
