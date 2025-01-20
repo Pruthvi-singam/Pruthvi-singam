@@ -15,6 +15,9 @@
 - [LinkedIn](https://www.linkedin.com/in/pruthvisingamasetti/)
 - [LeetCode Stats](https://leetcode.com/u/Singam_007/)
 
+## 💼 LinkedIn Badge
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pruthvisingamasetti/)
+
 ## 🚀 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode)
 
