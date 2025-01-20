@@ -18,11 +18,18 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Singam_007-yellowgreen?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Singam_007/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-PruthviSingama-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PruthviSingama)
 
-## 🚀 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode)
+## 🚀 Stats
 
-## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiPruthvi&show_icons=true&count_private=true&hide=prs&theme=radical)
+<div style="display: flex; gap: 20px;">
+  <div>
+    <h3>LeetCode Stats</h3>
+    <img src="https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode" alt="LeetCode Stats"/>
+  </div>
+  <div>
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=SaiPruthvi&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
+  </div>
+</div>
 
 ## 🌱 My Projects
 - [E-commerce React App](https://github.com/PruthviSingama/Ecommerce-React-App)
