@@ -16,9 +16,9 @@
 
 ## 🚀 Stats
 
-| **LeetCode Stats** | **GitHub Stats** |
-|---------------------|------------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode) [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Singam_007-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Singam_007/)| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiPruthvi&show_icons=true&count_private=true&hide=prs&theme=radical) |
+| **LeetCode Stats** |
+|---------------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode) [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Singam_007-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Singam_007/)| 
 
 
 
