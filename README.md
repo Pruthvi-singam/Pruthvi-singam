@@ -8,41 +8,17 @@
 
 ## 🛠️ Languages and Tools
 
-**Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+| **Languages**                                     | **Frameworks & Libraries**                              |
+|---------------------------------------------------|--------------------------------------------------------|
+| ![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![Python](https://img.icons8.com/color/30/python.png) ![SQL](https://img.icons8.com/color/30/database.png) ![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png) | ![Spring Boot](https://img.icons8.com/color/30/spring-logo.png) ![Hibernate](https://img.icons8.com/color/30/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/30/react-native.png) ![Node.js](https://img.icons8.com/color/30/nodejs.png) ![Express.js](https://img.icons8.com/ios-filled/30/nodejs.png) |
 
-**Frameworks & Libraries:**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+| **Databases**                                    | **Development Tools**                                  |
+|---------------------------------------------------|--------------------------------------------------------|
+| ![MySQL](https://img.icons8.com/color/30/mysql-logo.png) ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png) ![MongoDB](https://img.icons8.com/color/30/mongodb.png) ![Firebase](https://img.icons8.com/color/30/firebase.png) | ![Git](https://img.icons8.com/color/30/git.png) ![Maven](https://img.icons8.com/color/30/apache-maven.png) ![Jenkins](https://img.icons8.com/color/30/jenkins.png) ![Webpack](https://img.icons8.com/color/30/webpack.png) |
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Backend & Microservices:**  
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-2C8EBB?style=flat&logo=cloud&logoColor=white)
-
-**Development Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-
-**Additional Skills:**  
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-4A90E2?style=flat&logo=algorithms&logoColor=white)
-![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-FF6F61?style=flat&logo=programming&logoColor=white)
-
+| **Backend & Microservices**                      | **Additional Skills**                                  |
+|---------------------------------------------------|--------------------------------------------------------|
+| ![REST API](https://img.icons8.com/ios/30/api-settings.png) ![GraphQL](https://img.icons8.com/color/30/graphql.png) ![Microservices](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/external-microservices-computer-science-flaticons-lineal-color-flat-icons.png) | ![Data Structures](https://img.icons8.com/external-flat-juicy-fish/30/external-data-structure-data-science-flat-flat-juicy-fish.png) ![OOP](https://img.icons8.com/external-flat-juicy-fish/30/external-oop-data-science-flat-flat-juicy-fish.png) |
 
 ## 📫 How to reach me:
 - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pruthvi%20Singama-blue?style=flat-square&logo=linkedin&logoColor=white)
