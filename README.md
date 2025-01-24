@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yourwebsite.com">
-    <img width="80%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="./assets/gh-header.png" />
+    <img width="80%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="Github/Hello ,i’m Pruthvi.png" />
   </a>
 </p>
 
