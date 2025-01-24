@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yourwebsite.com">
-    <img width="90%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="Github/Hello ,i’m Pruthvi.png" />
+    <img width="100%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="Github/Hello ,i’m Pruthvi.png" />
   </a>
 </p>
 
@@ -18,17 +18,6 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 - 💬 Ask me about anything.
 
 ---
-
-### 🌟 LeetCode Highlights  
-
-<p align="center">
-  <a href="https://leetcode.com/u/Singam_007/">
-    <img src="https://leetcard.jacoblin.cool/Singam_007?theme=transparent" alt="Pruthvi's LeetCode Stats" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tech Stack  
 
 <p align="center">
@@ -40,6 +29,16 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+### 🌟 LeetCode Highlights  
+
+<p align="center">
+  <a href="https://leetcode.com/u/Singam_007/">
+    <img src="https://leetcard.jacoblin.cool/Singam_007?theme=transparent" alt="Pruthvi's LeetCode Stats" />
+  </a>
 </p>
 
 ---
