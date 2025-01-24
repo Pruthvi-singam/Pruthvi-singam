@@ -21,7 +21,11 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 
 ### 🌟 LeetCode Highlights  
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent)(https://leetcode.com/u/Singam_007/)
+<p align="center">
+  <a href="https://leetcode.com/u/Singam_007/">
+    <img src="https://leetcard.jacoblin.cool/Singam_007?theme=transparent" alt="Pruthvi's LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
@@ -49,28 +53,30 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 
 ### 🚀 Featured Projects  
 
-#### 🛒 **E-Commerce Web Application**  
-
-<a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
-</a>
-
-#### ⚙️ **Backend Microservices & APIs**  
-
-<a href="https://github.com/Pruthvi-singam/Backend-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
-</a>
+<p align="center">
+  <a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
+  </a>
+  <a href="https://github.com/Pruthvi-singam/Backend-Projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
+  </a>
+</p>
 
 ---
 
 ### 🔗 Connect With Me  
 
-<a href="https://www.linkedin.com/in/pruthvisingamasetti/">
-  <img align="left" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/u/Singam_007/">
-  <img align="left" alt="LeetCode" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/leetcode.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pruthvisingamasetti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Singam_007/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/Pruthvi-singam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
