@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yourwebsite.com">
-    <img width="80%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="Github/Hello ,i’m Pruthvi.png" />
+    <img width="90%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="Github/Hello ,i’m Pruthvi.png" />
   </a>
 </p>
 
@@ -19,16 +19,30 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 
 ---
 
+### 🌟 LeetCode Highlights  
+
+<p align="center">
+  <a href="https://leetcode.com/u/Singam_007/">
+    <img align="center" src="https://leetcard.jacoblin.cool/u/Singam_007?ext=heatmap&theme=light&font=Karma" alt="Pruthvi's LeetCode Stats" />
+  </a>
+  <br />
+  <strong>📖 Problems Solved: 350+</strong>
+</p>
+
+---
+
 ### 🛠️ Tech Stack  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" alt="Spring Boot"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="GraphQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 ---
 
@@ -54,14 +68,6 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 
 <a href="https://github.com/Pruthvi-singam/Backend-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
-</a>
-
----
-
-### 📈 LeetCode Stats  
-
-<a href="https://leetcode.com/u/Singam_007/">
-  <img align="center" src="https://leetcard.jacoblin.cool/u/Singam_007?theme=light&font=Karma" alt="Pruthvi's LeetCode Stats" />
 </a>
 
 ---
