@@ -15,19 +15,13 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 - 💼 Currently working on **Spring Boot & React projects**
 - 🔭 Developing **E-commerce web applications** and **RESTful APIs**
 - 🌱 Exploring **Cloud Technologies, Advanced Spring Boot & Microservices**
-- 💬 Ask me about anything [here](https://github.com/Pruthvi-singam/Pruthvi-singam/issues)
+- 💬 Ask me about anything.
 
 ---
 
 ### 🌟 LeetCode Highlights  
 
-<p align="center">
-  <a href="https://leetcode.com/u/Singam_007/">
-    <img align="center" src="https://leetcard.jacoblin.cool/u/Singam_007?ext=heatmap&theme=light&font=Karma" alt="Pruthvi's LeetCode Stats" />
-  </a>
-  <br />
-  <strong>📖 Problems Solved: 350+</strong>
-</p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent)(https://leetcode.com/u/Singam_007/)
 
 ---
 
@@ -56,15 +50,12 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 ### 🚀 Featured Projects  
 
 #### 🛒 **E-Commerce Web Application**  
-🔗 **Repo:** [E-commerce App](https://github.com/Pruthvi-singam/e-commerce-react-mongodb)  
-🔗 **Live Demo:** [View Project](#)  
 
 <a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
 </a>
 
 #### ⚙️ **Backend Microservices & APIs**  
-🔗 **Repo:** [Backend Projects](https://github.com/Pruthvi-singam/Backend-Projects)  
 
 <a href="https://github.com/Pruthvi-singam/Backend-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
