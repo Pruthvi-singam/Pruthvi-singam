@@ -46,12 +46,12 @@
 
 ## 📫 How to reach me:
 - ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pruthvi%20Singama-blue?style=flat-square&logo=linkedin&logoColor=white)
-
+- ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Singam_007-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Singam_007/)
 ## 🚀 Stats
 
 | **LeetCode Stats** |
 |---------------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode) [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Singam_007-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Singam_007/)| 
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Singam_007?theme=dark&font=robot&extension=leetcode) | 
 
 
 
