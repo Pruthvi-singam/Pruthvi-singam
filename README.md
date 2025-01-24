@@ -8,14 +8,40 @@
 
 ## 🛠️ Languages and Tools
 
-| **Category**            | **Technologies**                                                                                              |
-|--------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Languages**           | ![Java](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) ![Python](https://img.icons8.com/color/20/000000/python.png) ![SQL](https://img.icons8.com/color/20/000000/database.png) ![C++](https://img.icons8.com/color/20/000000/c-plus-plus-logo.png) |
-| **Frameworks & Libraries** | ![Spring Boot](https://img.icons8.com/color/20/000000/spring-logo.png) ![Hibernate](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/20/000000/react-native.png) ![Node.js](https://img.icons8.com/color/20/000000/nodejs.png) ![Express.js](https://img.icons8.com/ios-filled/20/000000/nodejs.png) |
-| **Databases**           | ![MySQL](https://img.icons8.com/color/20/000000/mysql-logo.png) ![PostgreSQL](https://img.icons8.com/color/20/000000/postgreesql.png) ![MongoDB](https://img.icons8.com/color/20/000000/mongodb.png) ![Firebase](https://img.icons8.com/color/20/000000/firebase.png) |
-| **Backend & Microservices** | ![REST API](https://img.icons8.com/ios/20/000000/api-settings.png) ![GraphQL](https://img.icons8.com/color/20/000000/graphql.png) ![Microservices](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/000000/external-microservices-computer-science-flaticons-lineal-color-flat-icons.png) |
-| **Development Tools**   | ![Git](https://img.icons8.com/color/20/000000/git.png) ![Maven](https://img.icons8.com/color/20/000000/apache-maven.png) ![Jenkins](https://img.icons8.com/color/20/000000/jenkins.png) ![Webpack](https://img.icons8.com/color/20/000000/webpack.png) |
-| **Additional Skills**   | ![Data Structures](https://img.icons8.com/external-flat-juicy-fish/20/000000/external-data-structure-data-science-flat-flat-juicy-fish.png) ![OOP](https://img.icons8.com/external-flat-juicy-fish/20/000000/external-oop-data-science-flat-flat-juicy-fish.png) |
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Libraries:**  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Backend & Microservices:**  
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-2C8EBB?style=flat&logo=cloud&logoColor=white)
+
+**Development Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+
+**Additional Skills:**  
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-4A90E2?style=flat&logo=algorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-FF6F61?style=flat&logo=programming&logoColor=white)
 
 
 ## 📫 How to reach me:
