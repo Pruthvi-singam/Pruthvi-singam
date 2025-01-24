@@ -8,6 +8,8 @@
 
 I'm a **self-taught Full Stack Developer** passionate about building **scalable backend systems** with **Spring Boot** and crafting smooth **React applications**.
 
+---
+
 ### 📌 About Me
 
 - 💼 Currently working on **Spring Boot & React projects**
@@ -43,9 +45,24 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 🔗 **Repo:** [E-commerce App](https://github.com/Pruthvi-singam/e-commerce-react-mongodb)  
 🔗 **Live Demo:** [View Project](#)  
 
+<a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
+</a>
+
 #### ⚙️ **Backend Microservices & APIs**  
 🔗 **Repo:** [Backend Projects](https://github.com/Pruthvi-singam/Backend-Projects)  
-🔗 **Live API:** [View API](#)  
+
+<a href="https://github.com/Pruthvi-singam/Backend-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
+</a>
+
+---
+
+### 📈 LeetCode Stats  
+
+<a href="https://leetcode.com/u/Singam_007/">
+  <img align="center" src="https://leetcard.jacoblin.cool/u/Singam_007?theme=light&font=Karma" alt="Pruthvi's LeetCode Stats" />
+</a>
 
 ---
 
