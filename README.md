@@ -81,4 +81,4 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 
 ---
 
-**Thanks for visiting! 🚀 Feel free to check out my repositories and contribute!** 🎯
+**Thanks for visiting! 🚀 Feel free to check out my repositories ** 🎯
