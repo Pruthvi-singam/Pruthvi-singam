@@ -56,6 +56,7 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
   <a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
   </a>
+  <br>
   <a href="https://github.com/Pruthvi-singam/Backend-Projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
   </a>
