@@ -53,14 +53,27 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 ### 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
-  </a>
-  <br>
-  <a href="https://github.com/Pruthvi-singam/Backend-Projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Pruthvi-singam/Backend-Projects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Pruthvi-singam/Job-Application">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Job-Application&theme=buefy" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
