@@ -59,26 +59,23 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
         <a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
         </a>
-        <p align="center"><b>e-commerce-react-mongodb</b><br>
-        A full-stack e-commerce application built with React and MongoDB. Features include product management, user authentication, and a responsive design.</p>
       </td>
       <td>
         <a href="https://github.com/Pruthvi-singam/Backend-Projects">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
         </a>
-        <p align="center"><b>Backend-Projects</b><br>
-        A collection of backend projects showcasing RESTful APIs, database integration, and server-side logic using Node.js, Express, and MongoDB.</p>
       </td>
       <td>
         <a href="https://github.com/Pruthvi-singam/Job-Application">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Job-Application&theme=buefy" />
         </a>
         <p align="center"><b>Job-Application</b><br>
-        A job application management system for organizing and tracking applications. Features include job listings, status updates, and reminders.</p>
+        A job application management system for organizing and tracking applications. Features include job listings, status updates, and reminders. Built using a microservices architecture with Docker for containerization, RabbitMQ for messaging, Zipkin for distributed tracing, and Eureka for service discovery.</p>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
