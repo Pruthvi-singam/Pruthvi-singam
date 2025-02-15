@@ -69,8 +69,7 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
         <a href="https://github.com/Pruthvi-singam/Job-Application">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Job-Application&theme=buefy" />
         </a>
-        <p align="center"><b>Job-Application</b><br>
-        A job application management system for organizing and tracking applications. Features include job listings, status updates, and reminders. Built using a microservices architecture with Docker for containerization, RabbitMQ for messaging, Zipkin for distributed tracing, and Eureka for service discovery.</p>
+        
       </td>
     </tr>
   </table>
