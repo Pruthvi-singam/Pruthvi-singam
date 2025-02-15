@@ -69,7 +69,6 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
         <a href="https://github.com/Pruthvi-singam/Job-Application">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Job-Application&theme=buefy" />
         </a>
-        
       </td>
     </tr>
   </table>
