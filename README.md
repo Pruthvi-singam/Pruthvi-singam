@@ -59,20 +59,30 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
         <a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
         </a>
+        <p align="center">
+          <b>E-Commerce App</b>: A full-stack project built with React and MongoDB to simulate an online store.
+        </p>
       </td>
       <td>
         <a href="https://github.com/Pruthvi-singam/Backend-Projects">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
         </a>
+        <p align="center">
+          <b>Backend Projects</b>: A collection of backend-focused projects demonstrating API development and server logic.
+        </p>
       </td>
       <td>
         <a href="https://github.com/Pruthvi-singam/Job-Application">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Job-Application&theme=buefy" />
         </a>
+        <p align="center">
+          <b>Job Application Portal</b>: A web app to manage job applications, showcasing CRUD operations and form handling.
+        </p>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
