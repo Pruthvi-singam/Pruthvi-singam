@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yourwebsite.com">
-    <img width="100%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="Github/Hello ,i’m Pruthvi.png" />
+    <img width="100%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="https://via.placeholder.com/1200x400" /> <!-- Replace with your image URL -->
   </a>
 </p>
 
@@ -15,9 +15,10 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 - 💼 Currently working on **Spring Boot & React projects**
 - 🔭 Developing **E-commerce web applications** and **RESTful APIs**
 - 🌱 Exploring **Cloud Technologies, Advanced Spring Boot & Microservices**
-- 💬 Ask me about anything.
+- 💬 Ask me about anything related to **Java, Spring Boot, React, or backend development**
 
 ---
+
 ### 🛠️ Tech Stack  
 
 <p align="center">
@@ -59,27 +60,25 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
         <a href="https://github.com/Pruthvi-singam/e-commerce-react-mongodb">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=e-commerce-react-mongodb&theme=buefy" />
         </a>
-       
       </td>
       <td>
         <a href="https://github.com/Pruthvi-singam/Backend-Projects">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Backend-Projects&theme=buefy" />
         </a>
-        
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/Pruthvi-singam/Job-Application">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvi-singam&repo=Job-Application&theme=buefy" />
         </a>
-        
+      </td>
+      <td>
+        <!-- Add another project here if needed -->
       </td>
     </tr>
   </table>
 </p>
-
-
-
-
 
 ---
 
@@ -101,4 +100,4 @@ I'm a **self-taught Full Stack Developer** passionate about building **scalable 
 
 ---
 
-**Thanks for visiting! 🚀 Feel free to check out my repositories ** 🎯
+**Thanks for visiting! 🚀 Feel free to check out my repositories and connect with me.** 🎯
