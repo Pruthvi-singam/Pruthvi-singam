@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yourwebsite.com">
-    <img width="100%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="https://via.placeholder.com/1200x400" /> <!-- Replace with your image URL -->
+    <img width="100%" alt="Hello, I'm Pruthvi! Passionate Full Stack Developer" src="Github/Hello ,i’m Pruthvi.png" />
   </a>
 </p>
 
